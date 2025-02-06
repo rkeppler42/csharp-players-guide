@@ -1,0 +1,14 @@
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.exe
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.deps.json
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\bin\Debug\net9.0\ConsolasAndTelim.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\refint\ConsolasAndTelim.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ConsolasAndTelim.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level004\ConsolasAndTelim\obj\Debug\net9.0\ref\ConsolasAndTelim.dll
