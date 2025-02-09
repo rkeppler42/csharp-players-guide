@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\bin\Debug\net9.0\TheVariableShop.exe
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\bin\Debug\net9.0\TheVariableShop.deps.json
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\bin\Debug\net9.0\TheVariableShop.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\bin\Debug\net9.0\TheVariableShop.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\bin\Debug\net9.0\TheVariableShop.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.sourcelink.json
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\refint\TheVariableShop.dll
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.pdb
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\TheVariableShop.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\GitHub\csharp-players-guide\Level006\TheVariableShop\obj\Debug\net9.0\ref\TheVariableShop.dll

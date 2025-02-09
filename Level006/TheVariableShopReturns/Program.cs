@@ -1,0 +1,61 @@
+﻿int intNum = -10;
+uint uintNum = 20;
+byte byteNum = 100;
+sbyte sbyteNum = -100;
+long longNum = -100000L;
+ulong ulongNum = 1000000L;
+short shortNum = -1000;
+ushort ushortNum = 1000;
+char charChar = '0';
+string stringString = "Hello!";
+double doubleNum = 0.356;
+float floatNum = 0.356f;
+decimal decimalNum = 0.428423m;
+bool boolBool = true;
+
+
+
+Console.WriteLine(intNum);
+Console.WriteLine(uintNum);
+Console.WriteLine(byteNum);
+Console.WriteLine(sbyteNum);
+Console.WriteLine(longNum);
+Console.WriteLine(ulongNum);
+Console.WriteLine(shortNum);
+Console.WriteLine(ushortNum);
+Console.WriteLine(charChar);
+Console.WriteLine(stringString);
+Console.WriteLine(doubleNum);
+Console.WriteLine(floatNum);
+Console.WriteLine(decimalNum);
+Console.WriteLine(boolBool);
+
+intNum = -11;
+uintNum = 11;
+byteNum = 0;
+sbyteNum = -1;
+longNum = -10000000L;
+ulongNum = 100000000L;
+shortNum = -10;
+ushortNum = 10;
+charChar = 'n';
+stringString = "Bye!";
+doubleNum = 4.12;
+floatNum = 3.14f;
+decimalNum = 3.14m;
+boolBool = false;
+
+Console.WriteLine(intNum);
+Console.WriteLine(uintNum);
+Console.WriteLine(byteNum);
+Console.WriteLine(sbyteNum);
+Console.WriteLine(longNum);
+Console.WriteLine(ulongNum);
+Console.WriteLine(shortNum);
+Console.WriteLine(ushortNum);
+Console.WriteLine(charChar);
+Console.WriteLine(stringString);
+Console.WriteLine(doubleNum);
+Console.WriteLine(floatNum);
+Console.WriteLine(decimalNum);
+Console.WriteLine(boolBool);
